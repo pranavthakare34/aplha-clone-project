@@ -1,0 +1,243 @@
+/* header section starts here */
+body{
+   background-image: url(./image/banner.jpg);
+   background-repeat: no-repeat;
+   background-size: 99% 42%;
+   background-color: #f5f5f5;
+   font-family:  'Source Sans Pro', sans-serif;
+}
+#HeaderSection{
+    width: 100%;
+    color: white;
+}
+#LogoDiv{
+    width: 30%;
+    display: inline-block;
+}
+#LogoDiv h1{
+    font-size: 17px;
+    margin-left: 15px;
+}
+#LogoDiv h1 span{
+    font-weight: 100;
+}
+#OptionDiv{
+    width: 69%;
+    display: inline-block;
+}
+#OptionDiv ul{
+    
+    display: inline-block;
+    /* float: right; */
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+#OptionDiv ul li{
+    display: inline-block;
+    margin-left: 25px;
+}
+#sign{
+    border: 1px solid white;
+    padding: 5px 20px;
+    border-radius: 10px;}
+
+  /* header sectionn ends here   */
+/* BodySection starts here */
+  #BodySection{
+    color: white;
+    text-align: center;
+    margin-top: 120px;
+
+
+  }
+  #BodySection h1{
+    font-size: 53px;
+  }
+
+  #BodySection p{
+font-size: 20px;
+font-weight: 90px;
+margin-top: -15px;
+  }
+  #BodySection ul{
+   display: inline-block;
+  }
+  #BodySection  ul li{
+    display: inline-block;
+    border: 2px solid white;
+    border-radius: 9px;
+    padding: 12px 70px;
+    margin-right: 18px;
+  }
+  #xyz{
+    background-color: white;
+    color: #797979;
+    font-weight: 900;
+    padding: 12px 70px!important;
+  }
+  
+ /* BodySection ends here */
+
+ /* description section css start here */
+#DescripSection{
+    color: #797979;
+    background-color: white;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 6px;
+    margin-top: 125px;
+}
+#DescripSection h1{
+    font-size: 34px;
+    padding-top: 88px;
+}
+#DescripSection p{
+    font-size: 21px;
+    font-weight: 900;
+    border-top: 1px solid #797979;
+    display: inline-block;
+padding-top: 37px;
+}
+#DescripSection img{
+    width: 100%;
+    padding-top: 45px;
+    border-radius: 6px;
+}
+
+ /* description section css ends here */
+ /* logo div starts here */
+
+ #LogoSection{
+width: 70%;
+margin: 0 auto;
+background-color: white;
+border-radius: 6px;
+text-align: center;
+margin-top: 50px;
+ }
+ #LogoSection div {
+display: inline-block;
+width: 49%;
+padding: 55px 4px;
+
+ }
+ #Logosection div h1{
+  font-size: 32px;
+  color: #797979;
+  font-weight: 100;
+ }
+ #Logosection div p{
+ font-size: 17px;
+ }
+#div1 i{
+font-size: 46px;
+border-radius: 100%;
+background-color: #e89980;
+color: white;
+padding: 22px 35px;
+}
+#div2 i{
+  font-size: 40px;
+border-radius: 100%;
+background-color: #7fcdb8;
+color: white;
+padding: 22px 32px;
+
+}
+#div3 i{
+  font-size: 46px;
+border-radius: 100%;
+background-color: #90b0ba;
+color: white;
+padding: 22px 30px;
+
+}
+#div4 i{
+  font-size: 46px;
+border-radius: 100%;
+background-color: #e5cb95;
+color: white;
+padding: 22px 35px;
+
+}
+#div1{
+  border-right: 1px solid #797979;
+}
+#div2{
+  border-bottom: 1px solid #797979;
+}
+#div3{border-top:   1px solid #797979;}
+#div4{border-left: 1px solid #797979;
+padding-left: 1px   }
+
+ /* logo div ends here */
+ /* image div starts here */
+ #Imagesection{
+  width: 70%;
+ margin: 0 auto;
+ background-color: white;
+ border-radius: 6px;
+ text-align: center;
+ margin-top: 50px;
+ }
+ #Imagesection div{
+  display: inline-block;
+ width: 49%;
+ 
+ }
+ #Imagesection ul{
+  display: inline-block;
+    /* float: right; */
+    
+    right: 0px;
+    top: 0px;
+
+ }
+ #Imagesection ul li{
+  display: inline-block;
+  border: 2px solid white;
+  border-radius: 24px;
+  padding: 17px 46px;
+  margin-right: 18px;
+  border: solid #f5f5f5;
+ }
+ #learn1{
+  display: inline-block;
+    border: 2px solid white;
+    border-radius: 24px;
+    padding: 17px 46px;
+    margin-right: 18px;
+    border: solid #f5f5f5;
+   
+ }
+ #learn2{
+ 
+    border-radius: 6px;
+
+}
+
+
+
+ 
+  
+
+  
+ /* image div ends here */
+ /* footer div starts here */
+ #footer{
+  width: 100%;
+  background-color: #e89980;
+  text-align: center;
+ }
+ #footer h1 p{
+  text-align: center;
+ }
+ #tq{
+  text-align: center;
+ }
+ #red{
+  text-align: center;
+ }
+ /* footer div ends here */
